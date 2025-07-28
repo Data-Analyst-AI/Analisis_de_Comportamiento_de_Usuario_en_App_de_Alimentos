@@ -2,6 +2,8 @@
 
 This project explores how users interact with the mobile application of a foodtech startup, identifying friction points within the conversion funnel and evaluating the impact of a typographic redesign through an A/A/B experiment.
 
+---
+
 ### Análisis de Comportamiento de Usuario en App de Alimentos – Sprint 11
 
 Este proyecto explora cómo los usuarios interactúan con la aplicación de una empresa emergente de productos alimenticios, identificando puntos de fricción en el embudo de conversión y evaluando el impacto de un rediseño tipográfico mediante un experimento A/A/B.
